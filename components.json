@@ -1,0 +1,20 @@
+[
+  {"ComponentID":"C-001","Name":"M6x20 Hex Bolt","Unit":"pcs","Category":"Fasteners","DefaultBoxID":"BX-001","ReorderLevel":20,"Active":true},
+  {"ComponentID":"C-002","Name":"M6 Nyloc Nut","Unit":"pcs","Category":"Fasteners","DefaultBoxID":"BX-001","ReorderLevel":20,"Active":true},
+  {"ComponentID":"C-003","Name":"M6 Washer","Unit":"pcs","Category":"Fasteners","DefaultBoxID":"BX-001","ReorderLevel":20,"Active":true},
+  {"ComponentID":"C-004","Name":"XT60 Connector Pair","Unit":"pcs","Category":"Connectors","DefaultBoxID":"BX-002","ReorderLevel":10,"Active":true},
+  {"ComponentID":"C-005","Name":"10 AWG Silicone Wire","Unit":"m","Category":"Cables","DefaultBoxID":"BX-002","ReorderLevel":50,"Active":true},
+  {"ComponentID":"C-006","Name":"BMS 16S Module","Unit":"pcs","Category":"BMS","DefaultBoxID":"BX-003","ReorderLevel":5,"Active":true},
+  {"ComponentID":"C-007","Name":"NTC 10k Temp Sensor","Unit":"pcs","Category":"BMS","DefaultBoxID":"BX-003","ReorderLevel":10,"Active":true},
+  {"ComponentID":"C-008","Name":"Hub Motor 1kW","Unit":"pcs","Category":"Drivetrain","DefaultBoxID":"BX-004","ReorderLevel":2,"Active":true},
+  {"ComponentID":"C-009","Name":"Kelly Controller 72V","Unit":"pcs","Category":"Drivetrain","DefaultBoxID":"BX-004","ReorderLevel":2,"Active":true},
+  {"ComponentID":"C-010","Name":"Side Panel — Left","Unit":"pcs","Category":"Body","DefaultBoxID":"BX-005","ReorderLevel":5,"Active":true},
+  {"ComponentID":"C-011","Name":"Side Panel — Right","Unit":"pcs","Category":"Body","DefaultBoxID":"BX-005","ReorderLevel":5,"Active":true},
+  {"ComponentID":"C-012","Name":"Loctite 243","Unit":"pcs","Category":"Adhesives","DefaultBoxID":"BX-006","ReorderLevel":5,"Active":true},
+  {"ComponentID":"C-013","Name":"RTV Silicone Sealant","Unit":"pcs","Category":"Adhesives","DefaultBoxID":"BX-006","ReorderLevel":5,"Active":true},
+  {"ComponentID":"C-014","Name":"PETG Black 1.75mm","Unit":"kg","Category":"Filament","DefaultBoxID":"BX-007","ReorderLevel":10,"Active":true},
+  {"ComponentID":"C-015","Name":"PLA Natural 1.75mm","Unit":"kg","Category":"Filament","DefaultBoxID":"BX-007","ReorderLevel":10,"Active":true},
+  {"ComponentID":"C-016","Name":"Heat-Set Insert M6","Unit":"pcs","Category":"Fasteners","DefaultBoxID":"BX-001","ReorderLevel":50,"Active":true},
+  {"ComponentID":"C-017","Name":"Blade Fuse 40A","Unit":"pcs","Category":"Electrical","DefaultBoxID":"BX-008","ReorderLevel":10,"Active":true},
+  {"ComponentID":"C-018","Name":"Butt Connector 10 AWG","Unit":"pcs","Category":"Connectors","DefaultBoxID":"BX-002","ReorderLevel":30,"Active":true}
+]
