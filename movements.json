@@ -30,16 +30,16 @@
     "notes": ""
   },
   {
-    "Timestamp": "2026-07-28T13:08:28.516Z",
-    "MovementID": "m-ms4o8y5g-k49x",
+    "Timestamp": "2026-07-28T13:10:12.237Z",
+    "MovementID": "m-ms4ob66l-wwnx",
     "BoxID": "BX-001",
     "ComponentID": "C-001",
-    "Quantity": 3,
-    "Type": "TAKE",
-    "Intent": "STORE_AND_USE_LATER",
+    "Quantity": 1,
+    "Type": "RETURN",
+    "Intent": "",
     "ReturnAction": "GOOD",
     "UserID": "EMP-001",
-    "Notes": "first end-to-end test",
+    "Notes": "returned",
     "Expensed": false,
     "DrawerID": ""
   }
