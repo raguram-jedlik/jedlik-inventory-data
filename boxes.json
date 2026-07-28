@@ -4,55 +4,63 @@
     "BoxName": "Fasteners — Workspace Shelf A",
     "Location": "Floor 1 — Fabrication Bay",
     "Notes": "Common bolts/nuts",
-    "Active": true
+    "Active": true,
+    "CreatedAt": "2026-07-27T11:41:43.507Z"
   },
   {
     "BoxID": "BX-002",
     "BoxName": "Cable & Connectors",
     "Location": "Floor 1 — Lab Bench",
     "Notes": "EV loom wiring",
-    "Active": true
+    "Active": true,
+    "CreatedAt": "2026-07-27T11:41:43.507Z"
   },
   {
     "BoxID": "BX-003",
     "BoxName": "BMS Components",
     "Location": "Floor 1 — Test Bench",
     "Notes": "Cell monitoring gear",
-    "Active": true
+    "Active": true,
+    "CreatedAt": "2026-07-27T11:41:43.507Z"
   },
   {
     "BoxID": "BX-004",
     "BoxName": "Motor & Controller",
     "Location": "Floor 1 — Test Bench",
     "Notes": "Hub motor spares",
-    "Active": true
+    "Active": true,
+    "CreatedAt": "2026-07-27T11:41:43.507Z"
   },
   {
     "BoxID": "BX-005",
     "BoxName": "Body & Shell Hardware",
     "Location": "Floor 2 — Assembly Bay",
     "Notes": "Side panels",
-    "Active": true
+    "Active": true,
+    "CreatedAt": "2026-07-27T11:41:43.507Z"
   },
   {
     "BoxID": "BX-006",
     "BoxName": "Adhesives & Sealants",
     "Location": "Floor 1 — Flammable Cabinet",
     "Notes": "",
-    "Active": true
+    "Active": true,
+    "CreatedAt": "2026-07-27T11:41:43.507Z"
   },
   {
     "BoxID": "BX-007",
     "BoxName": "3D Printer Filament",
     "Location": "Floor 2 — Print Farm",
     "Notes": "",
-    "Active": true
+    "Active": true,
+    "CreatedAt": "2026-07-27T11:41:43.507Z"
   },
   {
     "BoxID": "BX-008",
     "BoxName": "Misc Tools & Spares",
     "Location": "Floor 1 — Tool Wall",
     "Notes": "Bit set, fuses, …",
-    "Active": true
+    "Active": true,
+    "CreatedAt": "2026-07-27T11:41:43.507Z"
   }
 ]
