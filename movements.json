@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "timestamp": "2026-07-28T07:13:23.445Z",
+    "id": "m-ms4bkb22-k0e6",
+    "boxId": "BX-001",
+    "boxName": "Fasteners — Workspace Shelf A",
+    "componentId": "C-002",
+    "componentName": "M6 Nyloc Nut",
+    "quantity": 1,
+    "type": "TAKE",
+    "intent": "STORE_AND_USE_LATER",
+    "returnAction": "GOOD",
+    "expensed": false,
+    "userName": "Raguram SK",
+    "notes": ""
+  }
+]
