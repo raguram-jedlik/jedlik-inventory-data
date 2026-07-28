@@ -15,18 +15,18 @@
     "notes": ""
   },
   {
-    "timestamp": "2026-07-28T07:22:52.932Z",
-    "id": "m-ms4bwih6-m8p4",
+    "timestamp": "2026-07-28T07:24:43.489Z",
+    "id": "m-ms4byvs3-k1s2",
     "boxId": "BX-001",
     "boxName": "Fasteners — Workspace Shelf A",
-    "componentId": "C-001",
-    "componentName": "M6x20 Hex Bolt",
+    "componentId": "C-002",
+    "componentName": "M6 Nyloc Nut",
     "quantity": 1,
     "type": "TAKE",
     "intent": "STORE_AND_USE_LATER",
     "returnAction": "GOOD",
     "expensed": false,
-    "userName": "Hermoine smoke test",
+    "userName": "Raguram SK",
     "notes": ""
   }
 ]
