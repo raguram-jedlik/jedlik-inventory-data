@@ -1,13 +1,13 @@
 [
   {
-    "timestamp": "2026-07-28T07:14:35.338Z",
-    "id": "m-ms4bluj0-l2g8",
+    "timestamp": "2026-07-28T07:15:43.403Z",
+    "id": "m-ms4bnb1n-guq5",
     "boxId": "BX-001",
     "boxName": "Fasteners — Workspace Shelf A",
-    "componentId": "C-002",
-    "componentName": "M6 Nyloc Nut",
+    "componentId": "C-003",
+    "componentName": "M6 Washer",
     "quantity": 1,
-    "type": "RETURN",
+    "type": "EXPENSE",
     "intent": "STORE_AND_USE_LATER",
     "returnAction": "GOOD",
     "expensed": false,
