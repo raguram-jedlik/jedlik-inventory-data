@@ -13,5 +13,20 @@
     "expensed": false,
     "userName": "Raguram SK",
     "notes": ""
+  },
+  {
+    "timestamp": "2026-07-28T07:22:52.932Z",
+    "id": "m-ms4bwih6-m8p4",
+    "boxId": "BX-001",
+    "boxName": "Fasteners — Workspace Shelf A",
+    "componentId": "C-001",
+    "componentName": "M6x20 Hex Bolt",
+    "quantity": 1,
+    "type": "TAKE",
+    "intent": "STORE_AND_USE_LATER",
+    "returnAction": "GOOD",
+    "expensed": false,
+    "userName": "Hermoine smoke test",
+    "notes": ""
   }
 ]
