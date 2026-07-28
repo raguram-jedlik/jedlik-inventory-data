@@ -1,0 +1,50 @@
+[
+  {
+    "DrawerID": "D-FAS",
+    "DrawerName": "Fasteners",
+    "Description": "Bolts, nuts, washers",
+    "Location": "Floor 1 — Fabrication Bay"
+  },
+  {
+    "DrawerID": "D-CON",
+    "DrawerName": "Connectors",
+    "Description": "Connectors, cables",
+    "Location": "Floor 1 — Lab Bench"
+  },
+  {
+    "DrawerID": "D-BMS",
+    "DrawerName": "BMS",
+    "Description": "Cell monitoring gear",
+    "Location": "Floor 1 — Test Bench"
+  },
+  {
+    "DrawerID": "D-DRV",
+    "DrawerName": "Drivetrain",
+    "Description": "Motor and controller",
+    "Location": "Floor 1 — Test Bench"
+  },
+  {
+    "DrawerID": "D-BOD",
+    "DrawerName": "Body Hardware",
+    "Description": "Side panels, brackets",
+    "Location": "Floor 2 — Assembly Bay"
+  },
+  {
+    "DrawerID": "D-ADH",
+    "DrawerName": "Adhesives",
+    "Description": "Loctite, RTV, glues",
+    "Location": "Floor 1 — Flammable Cabinet"
+  },
+  {
+    "DrawerID": "D-FIL",
+    "DrawerName": "Filament",
+    "Description": "3D printer rolls",
+    "Location": "Floor 2 — Print Farm"
+  },
+  {
+    "DrawerID": "D-MSC",
+    "DrawerName": "Misc",
+    "Description": "Spare fuses, bits, etc.",
+    "Location": "Floor 1 — Tool Wall"
+  }
+]
