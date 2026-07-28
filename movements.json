@@ -3,7 +3,7 @@
     "timestamp": "2026-07-28T07:15:43.403Z",
     "id": "m-ms4bnb1n-guq5",
     "boxId": "BX-001",
-    "boxName": "Fasteners — Workspace Shelf A",
+    "boxName": "Fasteners â Workspace Shelf A",
     "componentId": "C-003",
     "componentName": "M6 Washer",
     "quantity": 1,
@@ -18,7 +18,7 @@
     "timestamp": "2026-07-28T07:25:30.169Z",
     "id": "m-ms4bzvsp-oo2s",
     "boxId": "BX-001",
-    "boxName": "Fasteners — Workspace Shelf A",
+    "boxName": "Fasteners â Workspace Shelf A",
     "componentId": "C-002",
     "componentName": "M6 Nyloc Nut",
     "quantity": 10,
@@ -40,6 +40,20 @@
     "ReturnAction": "GOOD",
     "UserID": "EMP-001",
     "Notes": "returned",
+    "Expensed": false,
+    "DrawerID": ""
+  },
+  {
+    "Timestamp": "2026-07-28T13:11:32.059Z",
+    "MovementID": "m-ms4ocvrv-h9e7",
+    "BoxID": "BX-001",
+    "ComponentID": "C-001",
+    "Quantity": 1,
+    "Type": "TAKE",
+    "Intent": "STORE_AND_USE_LATER",
+    "ReturnAction": "GOOD",
+    "UserID": "EMP-001",
+    "Notes": "real smoke test",
     "Expensed": false,
     "DrawerID": ""
   }
