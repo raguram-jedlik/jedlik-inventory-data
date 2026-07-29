@@ -56,5 +56,19 @@
     "Notes": "real smoke test",
     "Expensed": false,
     "DrawerID": ""
+  },
+  {
+    "Timestamp": "2026-07-29T06:28:26.808Z",
+    "MovementID": "m-ms5peczc-5yox",
+    "BoxID": "BX-001",
+    "ComponentID": "C-001",
+    "Quantity": 1,
+    "Type": "TAKE",
+    "Intent": "STORE_AND_USE_LATER",
+    "ReturnAction": "GOOD",
+    "UserID": "EMP-001",
+    "Notes": "",
+    "Expensed": false,
+    "DrawerID": ""
   }
 ]
